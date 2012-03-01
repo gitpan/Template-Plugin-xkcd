@@ -1,0 +1,13 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Template/Plugin/xkcd.pm
+t/00-compile.t
+t/module.t
+t/release-pod-syntax.t
+t/render.t
