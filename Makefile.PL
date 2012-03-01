@@ -28,12 +28,12 @@ my %WriteMakefileArgs = (
   "NAME" => "Template::Plugin::xkcd",
   "PREREQ_PM" => {
     "Template::Plugin" => 0,
-    "WWW::xkcd" => 0,
+    "WWW::xkcd" => "0.002",
     "base" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }

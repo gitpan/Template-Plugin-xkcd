@@ -2,7 +2,7 @@ NAME
     Template::Plugin::xkcd - WWW::xkcd plugin for Template::Toolkit
 
 VERSION
-    version 0.001
+    version 0.002
 
 SYNOPSIS
         # in your template

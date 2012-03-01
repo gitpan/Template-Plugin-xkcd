@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Template::Plugin::xkcd;
 {
-  $Template::Plugin::xkcd::VERSION = '0.001';
+  $Template::Plugin::xkcd::VERSION = '0.002';
 }
 # ABSTRACT: WWW::xkcd plugin for Template::Toolkit
 
@@ -42,7 +42,7 @@ Template::Plugin::xkcd - WWW::xkcd plugin for Template::Toolkit
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 

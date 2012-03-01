@@ -22,14 +22,14 @@ my %module_build_args = (
     "Sawyer X <xsawyerx\@cpan.org>"
   ],
   "dist_name" => "Template-Plugin-xkcd",
-  "dist_version" => "0.001",
+  "dist_version" => "0.002",
   "license" => "perl",
   "module_name" => "Template::Plugin::xkcd",
   "recommends" => {},
   "recursive_test_files" => 1,
   "requires" => {
     "Template::Plugin" => 0,
-    "WWW::xkcd" => 0,
+    "WWW::xkcd" => "0.002",
     "base" => 0,
     "strict" => 0,
     "warnings" => 0

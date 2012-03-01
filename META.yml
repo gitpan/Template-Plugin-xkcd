@@ -20,8 +20,8 @@ meta-spec:
 name: Template-Plugin-xkcd
 requires:
   Template::Plugin: 0
-  WWW::xkcd: 0
+  WWW::xkcd: 0.002
   base: 0
   strict: 0
   warnings: 0
-version: 0.001
+version: 0.002
